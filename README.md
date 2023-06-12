@@ -10,7 +10,8 @@ Technical task in java
         Wrap the form in <form> tags and specify an action and method attribute.
 
     Adding entries to the database and composing the selectbox:
-        Set up a server-side script or backend framework (e.g., Node.js with Express, PHP, Django, etc.) to handle form submissions and database operations.
+        Set up a server-side script or backend framework (e.g., Node.js with Express, PHP, Django, etc.) 
+        to handle form submissions and database operations.
         Create a database table to store the sectors' data.
         On form submission, retrieve the selected sectors from the $_POST or request body.
         Save the selected sectors to the database.
